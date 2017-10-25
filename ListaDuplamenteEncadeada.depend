@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473603883 source:c:\users\julian\documents\c++ workspace\listaduplamenteencadeada\listaduplaencadeada.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"listaDuplaEncadeada.h"
+
+1473607757 c:\users\julian\documents\c++ workspace\listaduplamenteencadeada\listaduplaencadeada.h
+
+1473604233 source:c:\users\julian\documents\c++ workspace\listaduplamenteencadeada\main.cpp
+	<iostream>
+	"listaDuplaEncadeada.h"
+
